@@ -1,0 +1,219 @@
+ .u-section-1 {
+  background-image: url("images/BlueBlackRedModernColorPlayerLogoYouTubeThumbnail1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 768px;
+}
+
+.u-section-1 .u-text-1 {
+  background-image: none;
+  margin: 41px auto 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 945px;
+  background-image: none;
+  box-shadow: 2px 2px 8px 0 rgba(128,128,128,1);
+  animation-duration: 1000ms;
+  min-height: 111px;
+  margin: 41px auto 0;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 68px;
+  height: 68px;
+  background-image: none;
+  margin: 21px auto 0 29px;
+}
+
+.u-section-1 .u-text-2 {
+  text-shadow: 0 -2px 8px rgba(128,128,128,1);
+  transition-duration: 0.5s;
+  font-weight: 400;
+  margin: -54px 238px 0 215px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 0.9375rem;
+  letter-spacing: 1px;
+  background-image: linear-gradient(to right, #478ac9, #2cccc4);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 0 10px 8px 0 rgba(128,128,128,1);
+  transition-duration: 0.5s;
+  animation-duration: 1000ms;
+  margin: 105px auto 0;
+  padding: 22px 93px 23px 92px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 0.9375rem;
+  letter-spacing: 1px;
+  background-image: linear-gradient(to right, #478ac9, #2cccc4);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 0 10px 8px 0 rgba(128,128,128,1);
+  transition-duration: 0.5s;
+  animation-duration: 1000ms;
+  margin: 11px auto 0;
+  padding: 22px 93px 23px 92px;
+}
+
+.u-section-1 .u-btn-3 {
+  font-size: 0.9375rem;
+  letter-spacing: 1px;
+  background-image: linear-gradient(to right, #478ac9, #2cccc4);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 0 10px 8px 0 rgba(128,128,128,1);
+  transition-duration: 0.5s;
+  animation-duration: 1000ms;
+  margin: 11px auto 60px 349px;
+  padding: 21px 164px 22px 162px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-1 {
+    min-height: 412px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 633px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 940px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -68px;
+    margin-right: 235px;
+    margin-left: 213px;
+    font-style: normal;
+  }
+
+  .u-section-1 .u-btn-1 {
+    transform: scale(1);
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 149px;
+  }
+}
+
+@media (max-width: 991px) {
+   .u-section-1 {
+    min-height: 316px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 485px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 125px;
+    margin-left: 103px;
+  }
+
+  .u-section-1 .u-btn-3 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 364px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 35px;
+    margin-left: 13px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-1 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-sheet-1 {
+    min-height: 229px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
+    margin-left: 0;
+  }
+}
+
+.u-section-1 .u-text-2,
+.u-container-layout .u-section-1 .u-text-2 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-text-2:hover,
+.u-section-1 .u-container-layout:hover .u-text-2 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+  opacity: 1 !important;
+}
+
+.u-section-1 .u-btn-1 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-btn-1:hover {
+  border-radius: 50px !important;
+  font-size: 20px !important;
+  transform: scale(1) !important;
+}
+
+.u-section-1 .u-btn-2 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-btn-2:hover {
+  border-radius: 50px !important;
+  font-size: 20px !important;
+  transform: scale(1) !important;
+}
+
+.u-section-1 .u-btn-3 {
+  transition-property: fill, color, background-image, background-color, stroke-width, border-style, border-width, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform !important;
+}
+
+.u-section-1 .u-btn-3:hover {
+  border-radius: 50px !important;
+  font-size: 20px !important;
+  transform: scale(1) !important;
+}

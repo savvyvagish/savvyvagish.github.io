@@ -1,0 +1,98 @@
+ .u-section-1 {
+  background-image: url("images/BlueBlackRedModernColorPlayerLogoYouTubeThumbnail1.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-btn-1 {
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 97px auto 0;
+  padding: 22px 138px 23px 137px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 69px;
+  height: 69px;
+  background-image: none;
+  margin: -78px auto 0 378px;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 1.5rem;
+  letter-spacing: 1px;
+  border-style: solid;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 20px auto 0;
+  padding: 22px 138px 23px 137px;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 72px;
+  height: 72px;
+  background-image: none;
+  margin: -79px auto 60px 402px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 312px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 331px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 239px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 254px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 179px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 191px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 113px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 120px;
+  }
+}
